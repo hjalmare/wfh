@@ -10,7 +10,8 @@
                  [mysql/mysql-connector-java "5.1.6"]
                  [org.clojure/java.jdbc "0.3.0-alpha1"]
                  [c3p0/c3p0 "0.9.1.2"]
-                 [hiccup "1.0.4"]]
+                 [hiccup "1.0.4"]
+	 	 [clj-time "0.11.0"]]
   :plugins [[lein-ring "0.9.7"]]
   :ring {:handler wfh.handler/app}
   :profiles
