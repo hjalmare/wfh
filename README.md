@@ -2,6 +2,12 @@
 
 FIXME
 
+{
+"email":"mymail",
+"duration":"asdf",
+"type":"WFH",
+"date":"2000-09-09"
+}
 ## Prerequisites
 
 You will need [Leiningen][] 2.0.0 or above installed.
